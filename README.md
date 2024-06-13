@@ -12,3 +12,5 @@
 </div> <br/>
 
 ## Segurança e Tecnologia
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsfernandesbr&layout=donut-vertical)](https://github.com/gabrielsfernandesbr)
