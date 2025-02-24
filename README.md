@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, sou Gabriel S Fernandes!
+### Graduando em Análise e Desenvolvimento de Sistemas.
+### Desenvolvedor Python, JavaScript e Java.
+### Entusiasta de segurança cibernética.
 
-<!--
-**gabrielsfernandesbr/gabrielsfernandesbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/gabrielsfernandesbr" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielsfernandesbr&show_icons=true&theme=swift">
+  </a>
+  <a href="https://github.com/gabrielsfernandesbr" target="_blank">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsfernandesbr&size_weight=0.5&count_weight=0.5">
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <a href="https://github.com/gabrielsfernandesbr" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+</div>
+
