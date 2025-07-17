@@ -1,9 +1,18 @@
-# Olá, sou Gabriel S Fernandes!
-### Graduando em Análise e Desenvolvimento de Sistemas.
-### Desenvolvedor Python, JavaScript e Java.
-### Entusiasta de segurança cibernética.
+# Gabriel Fernandes
 
-##
+Graduado em **Análise e Desenvolvimento de Sistemas** pela **URCAMP**.  
+Entusiasta e estudioso de **Cyber Security**.
+
+## Tecnologias e Ferramentas
+
+- Python, Java, JavaScript
+- Linux, Git, Bash
+
+## Interesses
+
+- Segurança da Informação
+- Desenvolvimento de ferramentas e automações
+- OSINT & Pentest
 
 <div>
   <a href="https://github.com/gabrielsfernandesbr" target="_blank">
