@@ -1,4 +1,4 @@
-### Olá, sou Gabriel S Fernandes ! Graduado em Analista e Desenvolvedor de Sistemas pela URCAMP. Desenvolvedor Python • JavaScript • Java.
+### Olá, sou Gabriel S Fernandes ! Graduado Analista e Desenvolvedor de Sistemas pela URCAMP. Desenvolvedor Python • JavaScript • Java.
 ___
 
 <div>
